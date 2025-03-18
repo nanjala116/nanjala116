@@ -11,5 +11,5 @@
   - [LinkedIn](https://www.linkedin.com/in/elizabeth-nanjala-w/)  
 - 😄 **Pronouns:** She/Her.  
 - ⚡ **Fun fact:**
-      😂 I follow the Kaizen principle, become better each day
-      📝 I love to see others WIN!!
+  - 😂 I follow the Kaizen principle, become better each day
+  - 📝 I love to see others WIN!!

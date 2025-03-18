@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**nanjala116/nanjala116** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**I’m Nanjala, a Data Scientist passionate about leveraging data to drive innovation and social impact.**  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 **I’m currently working on:** An AI startup and exploring AI-powered chatbots.  
+- 🌱 **I’m currently learning:** Advanced Math for Machine Learning, building API-based scalable ML services, and cybersecurity concepts like cryptography.  
+- 👯 **I’m looking to collaborate on:** AI powered projects, and innovations in cybersecurity.  
+- 🤔 **I’m looking for help with:** Exploring scalable data solutions for real-world problems and mastering advanced math for ML.  
+- 💬 **Ask me about:** Python, SQL, Machine Learning, Data Visualization, Statistical Analysis, and creating visually appealing habit trackers in Excel!  
+- 📫 **How to reach me:**  
+  - [LinkedIn](https://www.linkedin.com/in/elizabeth-nanjala-w/)  
+- 😄 **Pronouns:** She/Her.  
+- ⚡ **Fun fact:**
+      😂 I follow the Kaizen principle, become better each day
+      📝 I love to see others WIN!!

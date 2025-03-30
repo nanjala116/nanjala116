@@ -24,5 +24,3 @@ I hold a BSc in Mathematics & Physics, where I developed a love for modeling com
 - 📈 Built a habit tracker using Excel + fluid dynamics metaphors  
 - ♟️ Recovering chess addict (ELO 1600 and painfully aware of the Dunning-Kruger effect)  
 - 🌱 **Life motto:** "If you're not failing, your models aren't ambitious enough"
-
-[![Nanjala's Github Stats](https://github-readme-stats.vercel.app/api?username=nanjala116&count_private=true&show_icons=true&theme=radical&hide_rank=fals)]

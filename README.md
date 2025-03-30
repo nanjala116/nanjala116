@@ -18,7 +18,7 @@ I hold a BSc in Mathematics & Physics, where I developed a love for modeling com
 - Your cool physics/ML crossover idea (seriously, talk to me about Hamiltonian Monte Carlo)  
 
 **Connect**  
-🔗 [LinkedIn](https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/elizabeth-nanjala-w/) 
+🔗 [LinkedIn] (https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/elizabeth-nanjala-w/) 
 
 **Fun Things**  
 - 📈 Built a habit tracker using Excel + fluid dynamics metaphors  
